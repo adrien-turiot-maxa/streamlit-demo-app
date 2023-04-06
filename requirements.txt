@@ -1,0 +1,6 @@
+plotly
+pydantic
+streamlit
+snowflake-snowpark-python
+pyarrow==10.0.1
+inflection
